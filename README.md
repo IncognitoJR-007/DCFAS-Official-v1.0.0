@@ -10,6 +10,8 @@ DCFAS (Decentralized Cybersecurity Framework for Autonomous Systems) is a blockc
 
 Refer to `DCFAS_Whitepaper.md` for a detailed explanation.
 
+This concept is protected and published under the Digital Object Identifier (DOI): [10.5281/zenodo.15332348](https://doi.org/10.5281/zenodo.15332348).
+
 ## License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
