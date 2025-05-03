@@ -26,3 +26,16 @@ Under the following terms:
 - **ShareAlike** — You must distribute any derivative works under the same license.
 
 For full details, see the [license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
+## 📜 Cryptographic Proof of Idea
+
+This repository documents the original cybersecurity concept titled **Decentralized Cybersecurity Framework for Autonomous Systems (DCFAS)**, created by **Rahul Jebin Raju**.
+
+### ⏱ OpenTimestamps Verification
+
+The evidence file [`dcfas-evidence.ots`](./evidence/dcfas-evidence.ots) contains a cryptographic timestamp proving authorship and existence of the core documents before a specific point in time.
+
+🔗 Verify at: [https://opentimestamps.org](https://opentimestamps.org)  
+🧾 Covered files: `README.md`, `DCFAS_Concept.md`, `LICENSE`, `CONTRIBUTING.md`  
+🕒 Backed by: Bitcoin blockchain (immutable & decentralized)
+
